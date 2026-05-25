@@ -33,4 +33,4 @@ Aquí puedes poner los iconos que más uses. Te dejo algunos de ejemplo:
 
 ---
 
-📫 **Conectemos:** www.linkedin.com/in/alvaro-espinar-alcaraz
+📫 **Conectemos:** www.linkedin.com/in/alvaro-espinar
